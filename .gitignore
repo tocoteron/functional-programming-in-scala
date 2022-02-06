@@ -1,0 +1,11 @@
+# Editors
+.vscode
+
+# sbt
+target/
+
+# Metals
+.metals/
+.bloop/
+.ammonite/
+metals.sbt
